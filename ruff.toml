@@ -1,0 +1,13 @@
+target-version = "py312"
+
+[lint]
+select = [
+    "E",  # pycodestyle
+    "F",  # pyflakes
+    "W",  # pycodestyle
+    "I",  # isort
+    "B",  # flake8-bugbear
+    "C90",  # mccabe cyclomatic complexity
+    "UP", # pyupgrade
+    "SIM", # flake8-simplify
+]
