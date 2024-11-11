@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "based-logging"
 version = "0.1.0"
-description = ""
+description = "Unlimited Log Retention for AWS Lambda Functions with a Single Line of Code!"
 authors = ["suffer-sami <sami_email@protonmail.com>"]
 readme = "README.md"
 
