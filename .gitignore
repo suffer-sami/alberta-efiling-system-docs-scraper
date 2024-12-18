@@ -1,3 +1,6 @@
+# Requirements file for bundling with lambda
+lambda/requirements.txt
+
 # CDK asset staging directory
 .cdk.staging
 cdk.out
